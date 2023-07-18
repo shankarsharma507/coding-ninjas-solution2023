@@ -10,5 +10,9 @@ This repository includes all the practice problems and assignments. I created th
 The topics discussed in this repository are: [Content](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas)
 1. [Lecture 2 Getting Started with Java](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%202%20%20Getting%20Started%20with%20Java)
 2. [Lecture 3 How is Data stored](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%203%20How%20is%20Data%20stored)
+3. [Lecture 4 Conditionals and Loops](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%204%20Conditionals%20and%20Loops)
+4. [Lecture 5 Patterns 1](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%205%20Patterns%201)
+5. [Lecture 6 Patterns 2](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%206%20Patterns%202)
+6. [Lecture 7 Operators & For Loop](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%207%20Operators%20%26%20For%20Loop)
 
 
