@@ -14,5 +14,6 @@ The topics discussed in this repository are: [Content](https://github.com/shanka
 4. [Lecture 5 Patterns 1](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%205%20Patterns%201)
 5. [Lecture 6 Patterns 2](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%206%20Patterns%202)
 6. [Lecture 7 Operators & For Loop](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%207%20Operators%20%26%20For%20Loop)
+7. [TEST1](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/TEST1)
 
 
