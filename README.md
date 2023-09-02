@@ -19,5 +19,7 @@ The topics discussed in this repository are: [Content](https://github.com/shanka
 9. [Lecture 9 Arrays 1](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%209%20Arrays%201)
 10. [Lecture 10 Searching and Sorting](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%2010%20Searching%20and%20Sorting)
 11. [Lecture 11 Arrays 2](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%2011%20Arrays%202)
-
+12. [Lecture 12 Strings](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%2012%20Strings)
+13. [Lecture 13 Two Dimensional Arrays](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%2013%20Two%20Dimensional%20Arrays)
+14. [Lecture 14 OOPS_1](https://github.com/shankarsharma507/coding-ninjas-solution2023/tree/main/java%20programming%20coding%20ninjas/Lecture%2014%20OOPS_1)
 
